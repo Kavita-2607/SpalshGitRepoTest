@@ -1,2 +1,3 @@
 var greetings = "Vanakkam";
-var itmeans = "Pranam";
+var itmeans = "Namaste";
+
